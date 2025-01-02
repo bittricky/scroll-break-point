@@ -84,7 +84,7 @@ You can modify these values in Tampermonkey's editor and save to immediately tes
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+Feel free to submit issues and enhancement requests.
 
 ## Troubleshooting
 

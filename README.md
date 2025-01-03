@@ -1,5 +1,7 @@
 # Scroll Break Point
 
+> Ever feel like you’re caught in an infinite while(true) loop when scrolling with no exit condition? This userscript is the break; you’ve been looking for!
+
 A Tampermonkey userscript that helps prevent infinite scrolling by implementing smart scroll detection and enforced breaks.
 
 ## Features
